@@ -45,5 +45,5 @@ pasta_xml = 'D:\\seu_caminho_aqui'
 
 ## 🔍 Tratamento de Erros
 
-    O script ignora arquivos que não possuem extensão .xml.
-    Caso um arquivo esteja corrompido ou fora do padrão do Portal da NF-e, o script exibirá um erro de ParseError no console, mas continuará processando os demais arquivos da pasta.
+O script ignora arquivos que não possuem extensão .xml.
+Caso um arquivo esteja corrompido ou fora do padrão do Portal da NF-e, o script exibirá um erro de ParseError no console, mas continuará processando os demais arquivos da pasta.
